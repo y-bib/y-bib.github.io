@@ -4,6 +4,14 @@ title: Symbolic, Matrix , and Statistics Software I use
 permalink: /packages/
 ---
 
+- Wolfram Mathematica
+- Maple
+- MATLAB
+- R
+- Python
+
+
+<!--
 <table>
   <tr>
     <td align="center">
@@ -37,4 +45,4 @@ permalink: /packages/
   </tr>
 </table>
 
-
+-->
