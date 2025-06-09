@@ -4,14 +4,18 @@
 - title: "Research"
   href: "/research/"
 
-- title: "Talks"
-  href: "/talks/"
+  title:"Symbolic, Matrix , Stat Software"
+  href:"/packages/"
+
+- title: "Teaching"
+  href: "/teaching/"
 
 - title: "Curriculum Vitae"
   href: "/cv/"
 
-- title: "Teaching"
-  href: "/teaching/"
+- title: "Talks"
+  href: "/talks/"
+
 
 - title: "Miscellany"
   href: "/miscellany/"
