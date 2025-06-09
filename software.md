@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Symbolic, Matrix , and Statistics Software I use
-permalink: /packages/
+title: Software
+permalink: /software/
 ---
 
 - Wolfram Mathematica
