@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Symbolic, Matrix , Stat Software
+title: Symbolic, Matrix , and Statistics Software I use
 permalink: /packages/
 ---
 
