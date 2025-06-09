@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/yulia_photo.jpg" caption="Yulia" width=300 align="right" %}
+{% include image.html url="/images/yulia_photo.png" caption="Yulia" width=300 align="right" %}
 
 I am a post-academic mathematician working in statistical analysis and data science.
 
