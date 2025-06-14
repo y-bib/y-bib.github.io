@@ -2,7 +2,7 @@
 title: Yulia Bibilo, PhD
 email: y.bibilo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-   Yulia Bibilo's personal page: Math, Stats, and Data Science.
+   Yulia Bibilo's personal page: Math, ML and Data Science.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://y-bib.github.io" # the base hostname & protocol for your site
 github_username:  y-bib
